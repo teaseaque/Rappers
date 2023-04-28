@@ -1,0 +1,610 @@
+{
+  "sounds" : [
+    {
+      "name" : "1738",
+      "customSortIndex" : 14,
+      "image" : "png"
+    },
+    {
+      "name" : "2 Chainz",
+      "customSortIndex" : 62,
+      "image" : "png"
+    },
+    {
+      "name" : "Ah!",
+      "customSortIndex" : 95,
+      "image" : "png"
+    },
+    {
+      "name" : "Another One",
+      "customSortIndex" : 45,
+      "image" : "png"
+    },
+    {
+      "name" : "Ay",
+      "customSortIndex" : 31,
+      "image" : "png"
+    },
+    {
+      "name" : "Ay Bay Bay",
+      "customSortIndex" : 81,
+      "image" : "png"
+    },
+    {
+      "name" : "BOSS",
+      "customSortIndex" : 99,
+      "image" : "png"
+    },
+    {
+      "name" : "Baby Baba",
+      "customSortIndex" : 53,
+      "image" : "png"
+    },
+    {
+      "name" : "Bad Boy",
+      "customSortIndex" : 42,
+      "image" : "png"
+    },
+    {
+      "name" : "Big Snoop Dogg",
+      "customSortIndex" : 60,
+      "image" : "png"
+    },
+    {
+      "name" : "Biiaatch",
+      "customSortIndex" : 116,
+      "image" : "png"
+    },
+    {
+      "name" : "Bitch",
+      "customSortIndex" : 50,
+      "image" : "png"
+    },
+    {
+      "customSortIndex" : 36,
+      "name" : "Bitch",
+      "image" : "png",
+      "audioFileSuffix" : 1
+    },
+    {
+      "name" : "Bladayau",
+      "customSortIndex" : 17,
+      "image" : "png"
+    },
+    {
+      "name" : "Bless Up",
+      "customSortIndex" : 111,
+      "image" : "png"
+    },
+    {
+      "name" : "Bocka",
+      "customSortIndex" : 91,
+      "image" : "png"
+    },
+    {
+      "name" : "Boi",
+      "customSortIndex" : 54,
+      "image" : "png"
+    },
+    {
+      "name" : "Brr",
+      "customSortIndex" : 76,
+      "image" : "png"
+    },
+    {
+      "name" : "Can’t Touch This",
+      "customSortIndex" : 73,
+      "image" : "png"
+    },
+    {
+      "name" : "Cash Money",
+      "customSortIndex" : 69,
+      "image" : "png"
+    },
+    {
+      "name" : "Chyea",
+      "customSortIndex" : 18,
+      "image" : "png"
+    },
+    {
+      "name" : "Come On!",
+      "customSortIndex" : 7,
+      "image" : "png"
+    },
+    {
+      "name" : "Crack",
+      "customSortIndex" : 105,
+      "image" : "png"
+    },
+    {
+      "name" : "D J Khaled",
+      "customSortIndex" : 2,
+      "image" : "png"
+    },
+    {
+      "name" : "Dalé",
+      "customSortIndex" : 20,
+      "image" : "png"
+    },
+    {
+      "name" : "Dam",
+      "customSortIndex" : 85,
+      "image" : "png"
+    },
+    {
+      "name" : "Damn Son Where’d Ya Find This?",
+      "customSortIndex" : 43,
+      "image" : "png"
+    },
+    {
+      "name" : "Dipset",
+      "customSortIndex" : 58,
+      "image" : "png"
+    },
+    {
+      "name" : "Dog Barks",
+      "customSortIndex" : 83,
+      "image" : "png"
+    },
+    {
+      "name" : "Dolla $ign",
+      "customSortIndex" : 118,
+      "image" : "png"
+    },
+    {
+      "name" : "Doo Doo Doo Doo",
+      "customSortIndex" : 101,
+      "image" : "png"
+    },
+    {
+      "name" : "Dramatic",
+      "customSortIndex" : 70,
+      "image" : "png"
+    },
+    {
+      "name" : "Easy Mutha Fuckin E",
+      "customSortIndex" : 93,
+      "image" : "png"
+    },
+    {
+      "name" : "Eugh",
+      "customSortIndex" : 68,
+      "image" : "png"
+    },
+    {
+      "name" : "G-G-G Unit",
+      "customSortIndex" : 86,
+      "image" : "png"
+    },
+    {
+      "name" : "Ghost Ride Da Whip",
+      "customSortIndex" : 35,
+      "image" : "png"
+    },
+    {
+      "name" : "Gldldldldldlaw",
+      "customSortIndex" : 82,
+      "image" : "png"
+    },
+    {
+      "name" : "God Damn It",
+      "customSortIndex" : 96,
+      "image" : "png"
+    },
+    {
+      "name" : "Good Googily Moogily",
+      "customSortIndex" : 24,
+      "image" : "png"
+    },
+    {
+      "name" : "Grand Hustle Parna",
+      "customSortIndex" : 119,
+      "image" : "png"
+    },
+    {
+      "name" : "Ha?",
+      "customSortIndex" : 3,
+      "image" : "png"
+    },
+    {
+      "name" : "Hendrix",
+      "customSortIndex" : 56,
+      "image" : "png"
+    },
+    {
+      "name" : "Hey!",
+      "customSortIndex" : 59,
+      "image" : "png"
+    },
+    {
+      "name" : "Hit Me",
+      "customSortIndex" : 55,
+      "image" : "png"
+    },
+    {
+      "name" : "Hold Up",
+      "customSortIndex" : 117,
+      "image" : "png"
+    },
+    {
+      "name" : "Holdup",
+      "customSortIndex" : 94,
+      "image" : "png"
+    },
+    {
+      "name" : "Hov!",
+      "customSortIndex" : 19,
+      "image" : "png"
+    },
+    {
+      "name" : "I Like This Right Here",
+      "customSortIndex" : 100,
+      "image" : "png"
+    },
+    {
+      "name" : "Icha Boy!",
+      "customSortIndex" : 67,
+      "image" : "png"
+    },
+    {
+      "name" : "It’s 50",
+      "customSortIndex" : 40,
+      "image" : "png"
+    },
+    {
+      "name" : "It’s Murdaa",
+      "customSortIndex" : 115,
+      "image" : "png"
+    },
+    {
+      "name" : "It’s The Rock!",
+      "customSortIndex" : 15,
+      "image" : "png"
+    },
+    {
+      "name" : "I’m Focused, Man",
+      "customSortIndex" : 80,
+      "image" : "png"
+    },
+    {
+      "name" : "Jigga Man",
+      "customSortIndex" : 13,
+      "image" : "png"
+    },
+    {
+      "name" : "Jock",
+      "customSortIndex" : 72,
+      "image" : "png"
+    },
+    {
+      "name" : "Kane Is In The Building",
+      "customSortIndex" : 37,
+      "image" : "png"
+    },
+    {
+      "name" : "Killa",
+      "customSortIndex" : 110,
+      "image" : "png"
+    },
+    {
+      "name" : "Konvict Music",
+      "customSortIndex" : 33,
+      "image" : "png"
+    },
+    {
+      "name" : "Ladies & Gentlemen",
+      "customSortIndex" : 29,
+      "image" : "png"
+    },
+    {
+      "name" : "Lil Boat",
+      "customSortIndex" : 107,
+      "image" : "png"
+    },
+    {
+      "name" : "Lil Flame",
+      "customSortIndex" : 44,
+      "image" : "png"
+    },
+    {
+      "name" : "Luda",
+      "customSortIndex" : 87,
+      "image" : "png"
+    },
+    {
+      "name" : "Major Key",
+      "customSortIndex" : 120,
+      "image" : "png"
+    },
+    {
+      "name" : "Medic!",
+      "customSortIndex" : 90,
+      "image" : "png"
+    },
+    {
+      "name" : "Metro Boomin Want Sum Mo",
+      "customSortIndex" : 84,
+      "image" : "png"
+    },
+    {
+      "name" : "Migos",
+      "customSortIndex" : 11,
+      "image" : "png"
+    },
+    {
+      "name" : "Mike Jones!",
+      "customSortIndex" : 1,
+      "image" : "png"
+    },
+    {
+      "name" : "Montana",
+      "customSortIndex" : 57,
+      "image" : "png"
+    },
+    {
+      "name" : "Mr 305",
+      "customSortIndex" : 102,
+      "image" : "png"
+    },
+    {
+      "name" : "Mustard On The Beat",
+      "customSortIndex" : 77,
+      "image" : "png"
+    },
+    {
+      "name" : "My Name Is",
+      "customSortIndex" : 112,
+      "image" : "png"
+    },
+    {
+      "name" : "Nappy Boy",
+      "customSortIndex" : 48,
+      "image" : "png"
+    },
+    {
+      "name" : "O God",
+      "customSortIndex" : 75,
+      "image" : "png"
+    },
+    {
+      "name" : "Ok",
+      "customSortIndex" : 106,
+      "image" : "png"
+    },
+    {
+      "name" : "Pandu",
+      "customSortIndex" : 4,
+      "image" : "png"
+    },
+    {
+      "name" : "Put Sum Respec On My Name",
+      "customSortIndex" : 41,
+      "image" : "png"
+    },
+    {
+      "name" : "Puurrr",
+      "customSortIndex" : 123,
+      "image" : "png"
+    },
+    {
+      "name" : "Shimmy Shimmy Yaw",
+      "customSortIndex" : 23,
+      "image" : "png"
+    },
+    {
+      "name" : "Showtime",
+      "customSortIndex" : 5,
+      "image" : "png"
+    },
+    {
+      "name" : "Shutthefuckuuup",
+      "customSortIndex" : 113,
+      "image" : "png"
+    },
+    {
+      "name" : "Skirt Skirt",
+      "customSortIndex" : 10,
+      "image" : "png"
+    },
+    {
+      "name" : "Slim Shady",
+      "customSortIndex" : 74,
+      "image" : "png"
+    },
+    {
+      "name" : "Souljaboy Tell Em",
+      "customSortIndex" : 121,
+      "image" : "png"
+    },
+    {
+      "name" : "Stop",
+      "customSortIndex" : 6,
+      "image" : "png"
+    },
+    {
+      "name" : "Straight Up",
+      "customSortIndex" : 103,
+      "image" : "png"
+    },
+    {
+      "name" : "S’Gucci",
+      "customSortIndex" : 65,
+      "image" : "png"
+    },
+    {
+      "name" : "Talk To Em",
+      "customSortIndex" : 34,
+      "image" : "png"
+    },
+    {
+      "name" : "They Don’t Want To See Us Win",
+      "customSortIndex" : 30,
+      "image" : "png"
+    },
+    {
+      "name" : "This For The Hood",
+      "customSortIndex" : 78,
+      "image" : "png"
+    },
+    {
+      "name" : "Three 6 Mafia",
+      "customSortIndex" : 38,
+      "image" : "png"
+    },
+    {
+      "name" : "Thug Life",
+      "customSortIndex" : 92,
+      "image" : "png"
+    },
+    {
+      "name" : "Trippy Mayne",
+      "customSortIndex" : 21,
+      "image" : "png"
+    },
+    {
+      "name" : "Truck Tight",
+      "customSortIndex" : 0,
+      "image" : "png"
+    },
+    {
+      "name" : "UGK 4 Life",
+      "customSortIndex" : 12,
+      "image" : "png"
+    },
+    {
+      "name" : "Uegh",
+      "customSortIndex" : 52,
+      "image" : "png"
+    },
+    {
+      "name" : "Uh",
+      "customSortIndex" : 104,
+      "image" : "png"
+    },
+    {
+      "name" : "Uh Huh Huh Huh",
+      "customSortIndex" : 63,
+      "image" : "png"
+    },
+    {
+      "name" : "Was Hapnen",
+      "customSortIndex" : 61,
+      "image" : "png"
+    },
+    {
+      "name" : "Watch Out Lil Bitch",
+      "customSortIndex" : 25,
+      "image" : "png"
+    },
+    {
+      "name" : "We The Best",
+      "customSortIndex" : 22,
+      "image" : "png"
+    },
+    {
+      "name" : "What?",
+      "customSortIndex" : 9,
+      "image" : "png"
+    },
+    {
+      "name" : "Whoa",
+      "customSortIndex" : 64,
+      "image" : "png"
+    },
+    {
+      "name" : "Whoa Der",
+      "customSortIndex" : 109,
+      "image" : "png"
+    },
+    {
+      "name" : "Woo Woo",
+      "customSortIndex" : 66,
+      "image" : "png"
+    },
+    {
+      "name" : "Worst",
+      "customSortIndex" : 28,
+      "image" : "png"
+    },
+    {
+      "name" : "Ya Dig",
+      "customSortIndex" : 88,
+      "image" : "png"
+    },
+    {
+      "name" : "Yack Yack Yack",
+      "customSortIndex" : 122,
+      "image" : "png"
+    },
+    {
+      "name" : "Yea Boii",
+      "customSortIndex" : 26,
+      "image" : "png"
+    },
+    {
+      "name" : "Yea Hoe",
+      "customSortIndex" : 79,
+      "image" : "png"
+    },
+    {
+      "name" : "Yea Yeahee",
+      "customSortIndex" : 27,
+      "image" : "png"
+    },
+    {
+      "name" : "Yea!",
+      "customSortIndex" : 39,
+      "image" : "png"
+    },
+    {
+      "name" : "Yessir",
+      "customSortIndex" : 8,
+      "image" : "png"
+    },
+    {
+      "name" : "Yezzir",
+      "customSortIndex" : 97,
+      "image" : "png"
+    },
+    {
+      "name" : "Young Hova",
+      "customSortIndex" : 47,
+      "image" : "png"
+    },
+    {
+      "name" : "Young Mila Babay",
+      "customSortIndex" : 89,
+      "image" : "png"
+    },
+    {
+      "name" : "Young Money",
+      "customSortIndex" : 108,
+      "image" : "png"
+    },
+    {
+      "customSortIndex" : 114,
+      "name" : "Young Money",
+      "image" : "png",
+      "audioFileSuffix" : 1
+    },
+    {
+      "name" : "Young!",
+      "customSortIndex" : 51,
+      "image" : "png"
+    },
+    {
+      "name" : "Youuull",
+      "customSortIndex" : 49,
+      "image" : "png"
+    },
+    {
+      "name" : "💯",
+      "customSortIndex" : 46,
+      "image" : "png"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "name" : "Rappers",
+  "image" : "jpeg",
+  "color" : "FF9500"
+}
