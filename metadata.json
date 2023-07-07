@@ -605,6 +605,7 @@
   ],
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "name" : "Rappers",
+  "description" : "Popular sayings and tags from musical artists like rappers and hip-hop producers.",
   "image" : "jpeg",
   "color" : "FF9500"
 }
